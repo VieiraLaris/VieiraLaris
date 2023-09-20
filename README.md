@@ -27,6 +27,4 @@
   
 </div>
 
-![snake gif](https://github.com/VieiraLaris/VieiraLaris/blob/output/github-contribution-grid-snake.svg)
-
 <br>
