@@ -27,6 +27,4 @@
   
 </div>
 
-!(https://github.com/rafaballerini/VieiraLaris/blob/output/github-contribution-grid-snake.svg)
-
 <br>
