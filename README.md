@@ -4,7 +4,7 @@
 - Sempre aberta a aprender novas ferramentas e metodologias
 
 ## 💡O que eu faço:
-- Atualmente estou no quarto semestre da minha graduação
+- Atualmente estou no quinto semestre da minha graduação
 - Gosto muito de ler, em especial livros de fantasia 🧙‍♂️
 
 ## 📬Como entrar em contato:
