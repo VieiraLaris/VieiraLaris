@@ -4,7 +4,7 @@
 - Sempre aberta a aprender novas ferramentas e metodologias
 
 ## 💡O que eu faço:
-- Atualmente estou no quinto semestre da minha graduação
+- Atualmente estou no sexto semestre da minha graduação
 - Gosto muito de ler, em especial livros de fantasia 🧙‍♂️
 
 ## 📬Como entrar em contato:
@@ -16,7 +16,7 @@
 
 
 <a href="https://github.com/Gurupreet">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VieiraLaris&show_icons=true&theme=synthwave&line_height=27" alt="**SEU NOME** github stats"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VieiraLaris&show_icons=true&theme=synthwave&line_height=27" alt="Larissa Vieira github stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VieiraLaris&layout=compact&langs_count=16&theme=synthwave"/>
 </a>
 
