@@ -8,7 +8,7 @@
 - Gosto muito de ler, em especial livros de fantasia 🧙‍♂️
 
 ## 📬Como entrar em contato:
-- lalasarandi@gmail.com
+- larissadjvieira@gmail.com
 
 
 
