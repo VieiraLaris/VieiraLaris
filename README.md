@@ -1,11 +1,14 @@
-# Olá! Eu sou a Larissa Vieira 👋
+# Olá!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Eu+sou+a+Larissa+Vieira+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - Sou aluna de Engenharia de Software na Universidade de Brasília (UnB)
 - Sempre aberta a aprender novas ferramentas e metodologias
 
 ## 💡O que eu faço:
-- Atualmente estou no sexto semestre da minha graduação
-- Gosto muito de ler, em especial livros de fantasia 🧙‍♂️
+- Atualmente estou no oitavo semestre da minha graduação
+- Gosto muito de ler, em especial livros de fantasia e ficção científica
+- Adoro RPG de mesa (jogo mais D&D)
 
 ## 📬Como entrar em contato:
 - larissadjvieira@gmail.com
